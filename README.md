@@ -36,10 +36,8 @@
   </a>
 </p>
 
-#### 🔭 Currently working as an Agile Project Manager [![Visits Badge
+#### 🔭 Currently working as an Agile Project Manager
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=adelinopds" />
 </a>
-<a href="https://github.com/adelinopds/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=adelinopds&show_icons=true&line_height=27" alt="My github stats" />
-</a>
+
