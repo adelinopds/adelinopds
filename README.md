@@ -35,3 +35,11 @@
     <img src="https://badges.pufler.dev/commits/monthly/adelinopds?style=flat-square&color=black&logo=github">
   </a>
 </p>
+
+#### 🔭 Currently working as an Agile Project Manager [![Visits Badge
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=adelinopds" />
+</a>
+<a href="https://github.com/adelinopds/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=adelinopds&show_icons=true&line_height=27" alt="My github stats" />
+</a>
