@@ -20,7 +20,7 @@
   <strong>Check out my work below!</strong>
   <br><br>
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/visits/adelinopds?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/visits/adelinopds/adelinopds?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/years/adelinopds?style=flat-square&color=black&logo=github">
