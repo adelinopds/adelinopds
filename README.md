@@ -35,12 +35,7 @@
     <img src="https://badges.pufler.dev/commits/monthly/adelinopds?style=flat-square&color=black&logo=github">
   </a>
 </p>
-
-<p aling="center>
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=adelinopds" />
-</p>
                   
-
 <p align="center">
   <br><br>
   <strong>Languages and Tools</strong>
@@ -74,6 +69,10 @@
   <code>
     <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png">
   </code>
-  
+</p>
+
+<p align="center>
+  <br><br>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=adelinopds" />
 </p>
 
