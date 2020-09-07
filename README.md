@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/adelinopds" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=adelinopds&title_color=333&text_color=777" alt="Julian's Stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=adelinopds&title_color=333&text_color=777" alt="Adelino's Stats" >
   </a>
 </p>
 
@@ -20,7 +20,7 @@
   <strong>Check out my work below!</strong>
   <br><br>
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/visits/adelinopds/adelinopds?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/visits/adelinopds?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/years/adelinopds?style=flat-square&color=black&logo=github">
@@ -37,7 +37,7 @@
 </p>
                   
 <p align="center">
-  <br><br>
+  <br>
   <strong>Languages and Tools</strong>
   <br><br>
   <code>
@@ -71,8 +71,7 @@
   </code>
 </p>
 
-<p align="center>
-  <br><br>
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=adelinopds" />
+<br>
+<p align="center">
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=adelinopds" />
 </p>
-
